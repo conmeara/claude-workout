@@ -1,0 +1,31 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write(workouts/*.md)",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash -c 'FILE=\"$CLAUDE_FILE_PATH\"; if [ -f \"$FILE\" ]; then if ! grep -q \"## Exercises\" \"$FILE\"; then echo \"Warning: Missing ## Exercises section in workout log\"; fi; if ! grep -q \"## Session Notes\" \"$FILE\"; then echo \"Warning: Missing ## Session Notes section\"; fi; fi'"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "project": [
+      ".claude/skills/workout",
+      ".claude/skills/log",
+      ".claude/skills/status",
+      ".claude/skills/plan",
+      ".claude/skills/adjust",
+      ".claude/skills/review"
+    ]
+  },
+  "agents": {
+    "project": [
+      ".claude/agents/analyzer.md",
+      ".claude/agents/program-builder.md"
+    ]
+  }
+}
