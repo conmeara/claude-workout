@@ -19,7 +19,7 @@ You have a solid strength base from 5x5. Now we're building skill, relative stre
 | Monday | RR Workout A | Outdoor Gym | 30 min run + 45-60 min workout |
 | Tuesday | Easy Run / Active Recovery | Neighborhood | 30-45 min |
 | Wednesday | RR Workout B | Outdoor Gym | 30 min run + 45-60 min workout |
-| Thursday | Climbing | Climbing Gym | 60-90 min |
+| Thursday | Easy Run / Ruck (AM) + optional Climbing (PM) | Neighborhood + Climbing Gym | 30-60 min + (optional) 60-90 min |
 | Friday | RR Workout A | Outdoor Gym | 30 min run + 45-60 min workout |
 | Saturday | Hike OR Long Run | Outdoors | 60-90 min |
 | Sunday | Active Recovery | Home | Light movement, mobility |
@@ -333,96 +333,206 @@ Perform as a circuit with 60-90 sec rest after completing all exercises in each 
 
 ---
 
-### Nightly Mobility Routine (10-15 min)
+### Nightly Mobility Routine — 14‑Day Whole‑Body Overhaul (10–15 min)
 
-Based on Kelly Starrett's *Becoming a Supple Leopard* methodology. Do this every night, non-negotiable. It's your recovery work.
+**Overhaul start date:** 2026-01-29
 
-**The Supple Leopard Philosophy:**
+This replaces the “same routine every night” approach with the *Supple Leopard* **14‑day template**: **3 mobilizations/day**, every day.
 
-Starrett's system is built on three core principles:
+**Daily structure (10–15 min total):**
 
-1. **Midline Stabilization** — Your spine is the foundation. Maintain neutral spine and engaged core in all movements. A disorganized spine bleeds power and creates compensation patterns.
+- **MOB 1 — Coach pick (2–4 min):** Pick 1 mobilization that targets your *problem of the day* **based on your notes + today’s/upcoming training** (stiff spot, pain trend, or a position you want to improve). If you didn’t log anything, default to the single biggest limiter you feel right now.
+- **MOB 2 — Archetype (2–4 min):** Choose 1 mobilization from the day’s **movement archetype**.
+- **MOB 3 — Body area (2–4 min):** Choose 1 mobilization from the day’s **body area**.
 
-2. **Laws of Torque** — Create rotational force at joints to generate stability. External rotation at hips and shoulders "screws" you into stable positions. This is why we cue "knees out" in squats and "break the bar" in pressing.
+**Rule:** spend your time on the **one joint** that’s limiting you. Don’t turn this into a random stretching buffet.
 
-3. **One-Joint Rule** — Address one joint at a time when mobilizing. Don't try to stretch everything at once. Isolate the restriction, attack it, then move on.
+**Equipment:** lacrosse/tennis ball, wall/couch, optional band.
 
-**The Approach:**
-- Tissues adapt to positions you spend time in (sitting = tight hip flexors)
-- Mobilization restores sliding surfaces and joint capsule function
-- Consistency beats intensity — 10 min daily > 60 min weekly
-- Test/retest: Check a position, mobilize, check again
+#### 14‑day map (what to hit each day)
 
-**Equipment needed:** Lacrosse ball (or tennis ball), wall or couch, resistance band (optional)
+**Week 1**
+- **Mon:** Archetype = **Overhead** · Body area = **Area 1: Jaw/Head/Neck**
+- **Tue:** Archetype = **Squat** · Body area = **Area 13: Calf**
+- **Wed:** Archetype = **Hang** · Body area = **Area 2: Upper Back**
+- **Thu:** Archetype = **Front Rack** · Body area = **Area 6: Trunk**
+- **Fri:** Archetype = **Pistol** · Body area = **Area 12: Shin**
+- **Sat:** Archetype = **Lunge** · Body area = **Area 14: Ankle/Foot/Toes**
+- **Sun:** Archetype = **Press** · Body area = **Area 3: Posterior Shoulder/Lat/Serratus**
 
-#### Hip Opening (5 min)
+**Week 2**
+- **Mon:** Archetype = **Overhead** · Body area = **Area 5: Arm**
+- **Tue:** Archetype = **Squat** · Body area = **Area 9: Adductors**
+- **Wed:** Archetype = **Hang** · Body area = **Area 10: Hamstrings**
+- **Thu:** Archetype = **Front Rack** · Body area = **Area 11: Knee**
+- **Fri:** Archetype = **Pistol** · Body area = **Area 7: Glutes/Hip Capsules**
+- **Sat:** Archetype = **Lunge** · Body area = **Area 8: Hip Flexors/Quads**
+- **Sun:** Archetype = **Press** · Body area = **Area 4: Anterior Shoulder/Chest**
 
-| Exercise | Duration | Notes |
-|----------|----------|-------|
-| Couch Stretch | 2 min each side | Back knee against wall/couch, squeeze glute, stay upright |
-| Pigeon Pose | 90 sec each side | Keep hips square, fold forward if possible |
-| 90/90 Hip Switch | 10 reps | Knees at 90 degrees, rotate between positions |
+#### Sample program (Beginner track)
+Use these as defaults if you don’t want to think. Swap any slot when a different area is clearly the limiter.
 
-*Tight hip flexors from sitting will limit your handstand line. The couch stretch is non-negotiable.*
+**Week 1**
+- **Mon**
+  - MOB2 (Overhead): **T‑spine overhead extension smash** (Option 1) — ~2 min
+  - MOB3 (Area 1): **Posterior neck mob** — ~2 min
+- **Tue**
+  - MOB2 (Squat): **Single‑leg flexion + external rotation** (Option 2) — ~2 min/leg
+  - MOB3 (Area 13): **Calf smash** (Option 1) — ~2 min/calf
+- **Wed**
+  - MOB2 (Hang): **Reverse sleeper stretch** — ~2 min/arm
+  - MOB3 (Area 2): **T‑spine roller smash** (Option 1) — ~2 min
+- **Thu**
+  - MOB2 (Front Rack): **Classic triceps + lat stretch** — ~2 min/arm
+  - MOB3 (Area 6): **Global gut smash** — ~5 min
+- **Fri**
+  - MOB2 (Pistol): **Banded heel‑cord / ankle (anterior bias)** — ~2 min/ankle
+  - MOB3 (Area 12): **Double‑leg plantarflexion (shin)** — ~2 min/leg
+- **Sat**
+  - MOB2 (Lunge): **Banded hip extension** — ~2 min/side
+  - MOB3 (Area 14): **Plantar surface smash (foot)** — ~2 min/foot
+- **Sun**
+  - MOB2 (Press): **Sink mobilization** — ~2 min
+  - MOB3 (Area 3): **Shoulder rotator smash + floss** — ~2 min/shoulder
 
-#### T-Spine (3-4 min)
+**Week 2**
+- **Mon**
+  - MOB2 (Overhead): **Overhead tissue smash** (Option 2) — ~2 min/side
+  - MOB3 (Area 5): **Triceps extension smash** — ~2 min/arm
+- **Tue**
+  - MOB2 (Squat): **Posterior chain floss** — ~2 min/leg
+  - MOB3 (Area 9): **Olympic wall squat (adductors)** — ~2 min
+- **Wed**
+  - MOB2 (Hang): **Bilateral internal rotation mobilization** — ~2 min/side
+  - MOB3 (Area 10): **Posterior chain smash + floss** (Option 1) — ~2 min/leg
 
-| Exercise | Duration | Notes |
-|----------|----------|-------|
-| T-Spine Extension on Floor | 2 min | Foam roller or lacrosse balls along spine, arms overhead, extend over ball |
-| Thread the Needle | 10 each side | On all fours, reach through and rotate |
-| Cat-Cow | 10 reps | Slow and controlled |
+*(Thu–Sun week 2: keep the same 3‑slot template. We’ll fill in your personal best picks as we learn what you actually need most.)*
 
-*Thoracic mobility is critical for handstands and overhead pressing. Don't skip this.*
+### Rehab / Pain Prescriptions (use when needed)
 
-#### Shoulder Work (3-4 min)
+If you’ve got a **minor tweak / pain flare**, swap **MOB 1** for one of these short sequences (and keep MOB 2–3 as normal *if* they don’t aggravate it). The goal is to **reduce symptoms and restore position**, not to win a suffering contest.
 
-| Exercise | Duration | Notes |
-|----------|----------|-------|
-| Lacrosse Ball Pec Smash | 90 sec each side | Ball against wall, lean into pec, move arm |
-| Lat Stretch | 60 sec each side | Arm overhead, side bend away |
-| Butcher's Block / Puppy Pose | 90 sec | Arms extended, chest sinking toward floor |
-| Shoulder Circles | 10 each direction | Slow, full range |
+**Head/Neck**
+- **Headache / neck pain / TMJD** (8–12 min)
+  - Jaw mob (p.288) — 1–2 min/side
+  - Head mob (p.288) — 1–2 min/side
+  - Anterior neck mob (p.289) — 2 min
+  - Posterior neck mob (p.290) — 2 min
+- **Posterior neck pain / tension / exertion headache** (8–10 min)
+  - T‑spine ball smash mobilizations (p.295; choose 1) — 2–4 min
+  - Basic first rib smash + floss (p.306) — 2 min/side
+  - Posterior neck mob (p.290) — 2 min
 
-#### Wrist Care (1-2 min)
+**Shoulder / Arm**
+- **Posterior shoulder pain — A** (~10 min)
+  - T‑spine ball smash mobilizations (p.295; choose 1) — 2 min
+  - Shoulder capsule mobilization (p.310) — 2 min/arm
+  - Overhead rib mobilization (p.301) — 2 min/side
+- **Posterior shoulder pain — B** (~12 min)
+  - Trap scrub (p.304) — 2 min/side
+  - Shoulder rotator smash + floss (p.312) — 2 min/side
+  - Overhead tissue smash mobilizations (p.313; choose 1 option) — 2 min/side
+- **Anterior shoulder pain** (~10 min)
+  - Anterior compartment mobilizations (p.323; choose 1) — 2 min/side
+  - Barbell shoulder shear (p.327) — 2 min/shoulder
+  - Bilateral internal rotation mobilization (p.329) — 2 min
 
-| Exercise | Duration | Notes |
-|----------|----------|-------|
-| Wrist Flexor Stretch | 30 sec each | Fingers back, lean into stretch |
-| Wrist Extensor Stretch | 30 sec each | Top of hand on floor, lean into it |
-| Wrist Circles | 20 each direction | |
+**Elbow / Wrist**
+- **Elbow pain (tennis elbow) — A (VooDoo)** (4–12 min)
+  - Elbow VooDoo (p.339) — 1–2 min compression; 2–3 cycles/arm
+- **Elbow pain (tennis elbow) — B** (~12 min)
+  - Triceps extension smash (p.336) — 2 min/arm
+  - Forearm smash mobilizations (p.344; choose 1) — 2 min/arm
+  - Banded elbow distraction (p.343) — 2 min/arm
+- **Wrist pain (carpal tunnel) — A (VooDoo)** (4–12 min)
+  - Banded wrist distraction (p.347) — 1–2 min compression; 2–3 cycles/wrist
+- **Wrist pain (carpal tunnel) — B** (~12 min)
+  - Forearm smash mobilizations (p.344; choose 1) — 2 min/arm
+  - Wrist tack + spin (p.346) — 2 min/wrist
+  - Banded wrist distraction (p.347) — 2 min/wrist
 
-*Handstand practice loads your wrists daily. This maintenance prevents issues.*
+**Back / Trunk / Breathing**
+- **Upper back pain (trap tweak sequence)** (10–12 min)
+  - T‑spine ball smash mobilizations (p.295; choose 1) — 2–4 min
+  - Overhead rib mobilization (p.301) — 2 min/arm
+  - Trap scrub (p.304) — 2 min/side
+- **Diaphragm dysfunction (breathing sequence)** (8 min)
+  - T‑spine ball smash extension (p.295) — 4 min
+  - Diaphragm gut smash (p.363) — 4 min
+- **Low back pain — A (low back tweak)** (13–15 min)
+  - Pelvic reset (p.350) — 1–2 min
+  - Global gut smash (p.365) — 4 min
+  - QL side smash (p.354) — 2 min/side
+  - Quad smash (p.385; focus rectus femoris/front of upper leg) — 2–4 min/side
+- **Low back pain — B** (~12 min)
+  - Targeted gut smashing mobilizations (p.358; choose 1; focus iliacus) — 2 min/side
+  - Adductor smash (p.398; choose 1) — 2 min/side
+  - Couch stretch (p.391) — 2 min/side
+- **Low back pain — C** (~12 min)
+  - Low back smash (p.349; option 1) — 2 min/side
+  - High glute smash + floss (p.369) — 2 min/side
+  - Oblique side smash (p.355) — 2 min/side
+- **Low back pain — D** (~12 min)
+  - Erector side smash (p.353) — 2 min/side
+  - Posterior chain smash + floss (p.404; choose 1) — 2 min/leg
+  - Posterior chain floss (p.408) — 2 min/side
 
-#### Advanced Mobility Tools (Optional)
+**Hip**
+- **Posterior hip pain (piriformis/sciatica) — A** (~12 min)
+  - Glute smash + floss (p.368) — 2 min/side
+  - High glute smash + floss (p.369) — 2 min/side
+  - Adductor smash (p.398) — 2 min/side
+- **Posterior hip pain — B (VooDoo)** (4–12 min)
+  - VooDoo groin + hamstring wrap (p.408) — 1–2 min compression; 2–3 cycles on problem area
+- **Anterior hip pain** (~12 min)
+  - Side hip smash (p.370) — 2 min/side
+  - Targeted gut smashing mobilizations (p.358; choose 1) — 2 min/side
+  - Banded hip extension (p.390) — 2 min/side
+- **SI pain (sacroiliac joint pain)** (~12 min)
+  - Glute smash + floss (p.368) — 2 min/side
+  - Targeted gut smashing mobilizations (p.358; choose 1) — 2 min/side
+  - Hip capsule mobilization (p.379) — 2 min/side
+- **Hip impingement** (~12 min)
+  - Gentle hip distraction (p.378) — 2 min/side
+  - Cueing internal rotation with distraction (p.382) — 2 min/side
+  - Hip capsule mobilization (p.379) — 2 min/side
 
-Once you have the basics dialed, add these Supple Leopard techniques:
-
-**Banded Joint Distractions:**
-| Target | Setup | Duration |
-|--------|-------|----------|
-| Hip Capsule | Band anchored low, loop around hip crease, step away to create tension, sink into lunge | 2 min each side |
-| Shoulder | Band anchored high, loop around shoulder, step away, let band pull arm overhead | 2 min each side |
-| Ankle | Band anchored low, loop around front of ankle, drive knee forward over toes | 2 min each side |
-
-*The band creates space in the joint capsule — you'll feel positions open up that stretching alone can't reach.*
-
-**Voodoo Floss (for stubborn areas):**
-- Wrap a compression band tightly around a joint (knee, elbow, ankle)
-- Move the joint through full range of motion while wrapped
-- Unwrap after 2 minutes
-- Blood rushes back in, improves tissue sliding surfaces
-- Don't leave on longer than 2 min, don't go numb
-
-**Lacrosse Ball Targeted Work:**
-| Area | Technique |
-|------|-----------|
-| Glutes/Piriformis | Sit on ball, cross ankle over knee, roll around |
-| T-spine | Two balls taped together, lie on them along spine, arms overhead |
-| Plantar Fascia | Stand on ball, roll foot, spend time on tender spots |
-| Forearms | Ball on table, roll forearm flexors and extensors |
-
-*Spend 2 min per area. If it's spicy, you probably need it.*
+**Knee / Ankle / Foot / Shin**
+- **Knee pain — A (knee tweak)** (8–15 min)
+  - Terminal knee extension: VooDoo variation (p.414) — 1–2 min compression; 2–3 cycles/knee
+  - Gap + smash mobilizations (p.415; choose 1) — 2 min/knee
+- **Knee pain — B** (~12 min)
+  - Suprapatellar smash + floss (p.388) — 2 min/knee
+  - Calf smash mobilizations (p.425; choose 1) — 2 min/calf
+  - Classic calf mobilization (p.429) — 2 min/leg
+- **Knee pain — C** (~12 min)
+  - Posterior chain smash + floss (p.404; choose 1) — 2 min/leg
+  - Knee stack + smash (p.417) — 2 min/knee
+  - Medial shin smash + floss mobilizations (p.420; choose 1) — 2 min/leg
+- **Knee pain — D** (12–15 min)
+  - Quad smash mobilizations (p.385; choose 1) — 2 min/leg
+  - Lateral + anterior compartment shin mobilization (p.422) — 2 min/shin
+  - Knee VooDoo (p.389) — 1–2 min compression; 2–3 cycles on problem area
+- **Ankle pain (Achilles) — A** (~12 min)
+  - Calf smash mobilizations (p.425; choose 1) — 2 min/calf
+  - Banded heel cord: anterior bias (p.430) — 2 min/ankle
+  - Banded heel cord: posterior bias (p.430) — 2 min/ankle
+- **Ankle pain (Achilles) — B** (~12 min)
+  - Ball whack (p.432; do all options) — 2 min/calf
+  - Lateral malleolus/heel smash mobilizations (p.433) — 2 min/ankle
+  - Medial heel bone smash (p.434) — 2 min/ankle
+- **Ankle pain (Achilles) — C (VooDoo)** (4–12 min)
+  - Ankle VooDoo (p.436) — 1–2 min compression; 2–3 cycles/ankle
+- **Foot pain (plantar fasciitis)** (~12 min)
+  - Plantar surface smash (p.437) — 2 min/foot
+  - Forefoot mobilization (p.438) — 2 min/foot
+  - Toe re‑animator mobilizations: option 3 toe dorsiflexion (p.441) — 2 min/foot
+- **Shin splints** (~10 min)
+  - Medial shin smash + floss mobilizations (p.420; choose 1) — 2 min/leg
+  - Lateral + anterior compartment shin mobilization (p.422) — 2 min/leg
+  - Double‑leg plantarflexion (p.423) — 2 min
+- **Turf toe / bunion sequence** (5–10 min)
+  - Toe re‑animator mobilizations (p.439; perform all options)
 
 ---
 

@@ -32,12 +32,32 @@
 
 ## Context
 
-*(What's their energy like? Any injuries or setbacks? What motivates them? What makes them skip sessions? Build this over time.)*
+*What's their energy like? Any injuries or setbacks? What motivates them? What makes them skip sessions? Build this over time.*
 
 - ~210 lbs, wants to lean out
 - Climbing gym available (good rain day option)
 - Wants nightly mobility routine (Supple Leopard style)
 - Weather dictates daily plan: clear = run to outdoor gym, rain = climb or home pull-up bar
+
+---
+
+## Active Adjustments
+
+*Temporary flags affecting training. Add when something comes up, remove when resolved.*
+
+| Date | Flag | Impact | Expires |
+|------|------|--------|---------|
+| 2026-01-31 | Left plantar heel irritation | Bias toward calf/foot mobility + gradual loading; avoid sudden volume spikes on hard surfaces | When symptom-free 7–10 days |
+| 2026-01-31 | Recurrent adductor/groin tightness (old strain) | Add short adductor mobility + isometrics; manage squat volume/depth when flared | When symptom-free 2+ weeks |
+
+---
+
+## Personal Records
+
+*Log PRs as you hit them. These are your current bests.*
+
+| Exercise | Date | Progression/Weight | Reps | Notes |
+|----------|------|-------------------|------|-------|
 
 ---
 

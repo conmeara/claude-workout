@@ -1,12 +1,7 @@
-# HEARTBEAT.md - Heartbeat Context
+# HEARTBEAT.md
 
-*This file is read during heartbeat polls. Keep it small to limit token burn.*
+## FitBot heartbeat rules
 
-## Check-ins
+Heartbeats are **disabled** for FitBot (we replaced them with cron jobs).
 
-- Morning: Deliver today's workout based on `program.md` and schedule
-- Evening: Deliver tonight's mobility routine
-
-## Weekly
-
-- Sunday: Review `program.md` and `memory/*.md`, analyze progress, update `prs.md`, flag any concerns
+- On heartbeat polls: reply **HEARTBEAT_OK**.
