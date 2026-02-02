@@ -48,14 +48,11 @@ On rest days or non-training conversations, skip the Exercises section. Not ever
 
 Additional training files:
 - `program.md` — Current training plan (read every session)
-- `prs.md` — Personal records (optional, can consolidate into USER.md)
-- `adjustments.md` — Active training flags (optional, can consolidate into USER.md)
 
 When coaching:
-1. Read `program.md` to know what's scheduled
-2. Check recent `memory/*.md` for last 3-5 sessions
-3. Check `adjustments.md` or `USER.md` for any active flags
-4. Reference `prs.md` or `USER.md` for current bests
+1. Read `USER.md` for profile, adjustments, and PRs
+2. Read `program.md` to know what's scheduled
+3. Check recent `memory/*.md` for last 3-5 sessions
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
 
