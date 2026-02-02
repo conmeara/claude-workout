@@ -16,24 +16,46 @@ Before doing anything else:
 
 Don't ask permission. Just do it.
 
-## Memory & Workout Files
+## Memory
 
 You wake up fresh each session. These files are your continuity:
-- **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — workout logs + notes for that day
+- **Daily logs:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — session notes + workout logs combined
 - **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
 
-Your `memory/` folder serves double duty — daily notes ARE workout logs.
+Each day gets one file. Conversation context and workouts live together — a training day is a session.
 
-Additional training files at the root:
+### Daily Log Format
+
+Use this structure for all `memory/YYYY-MM-DD.md` files:
+
+```
+# YYYY-MM-DD - Workout Type
+
+## Exercises
+| Exercise | Sets x Reps | Weight/Progression | Notes |
+|----------|-------------|-------------------|-------|
+| ... | ... | ... | ... |
+
+## Session Notes
+- Conversation context, decisions, lessons learned
+- Things to remember for future sessions
+
+## Flags
+- Issues to monitor going forward
+```
+
+On rest days or non-training conversations, skip the Exercises section. Not every day needs one.
+
+Additional training files:
 - `program.md` — Current training plan (read every session)
-- `prs.md` — Personal records
-- `adjustments.md` — Active training flags (injuries, fatigue, schedule changes)
+- `prs.md` — Personal records (optional, can consolidate into USER.md)
+- `adjustments.md` — Active training flags (optional, can consolidate into USER.md)
 
 When coaching:
 1. Read `program.md` to know what's scheduled
 2. Check recent `memory/*.md` for last 3-5 sessions
-3. Check `adjustments.md` for any active flags
-4. Reference `prs.md` for current bests
+3. Check `adjustments.md` or `USER.md` for any active flags
+4. Reference `prs.md` or `USER.md` for current bests
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
 
@@ -125,6 +147,18 @@ Skills provide your tools. When you need one, check its `SKILL.md`. Keep local n
 - **Discord/WhatsApp:** No markdown tables! Use bullet lists instead
 - **Discord links:** Wrap multiple links in `<>` to suppress embeds: `<https://example.com>`
 - **WhatsApp:** No headers — use **bold** or CAPS for emphasis
+- **Telegram:** Headers don't render well — use **bold** for emphasis. Use `>` blockquotes to visually group content.
+
+**📱 Scheduled Messages (cron):**
+
+*These go to mobile. Keep them tight.*
+
+- Under 600 chars ideal
+- No tables — bullet lists or inline
+- Front-load the action — what to do first
+- Pick one option — don't list alternatives
+- Blockquotes for workout details
+- One-liners for weather/previews
 
 ## 💓 Heartbeats - Be Proactive!
 
